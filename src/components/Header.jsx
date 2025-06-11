@@ -14,7 +14,7 @@ const Header = () => {
     <header className="py-1 px-7 flex justify-between items-center sticky top-0 z-50 w-full border-b-[0.3px] border-[#babaff] bg-black">
       {/* left section */}
       <div className="flex lg:gap-14 gap-4 items-center">
-        <img className=" md:w-16 w-12" src="Images\logo.png" alt="logo-img" />
+        <img className=" md:w-16 w-12" src="/Images/logo.png" alt="logo-img" />
 
         <div className="hidden md:flex gap-5 item-center">
           <button className="h-8 px-6 bg-gradient-to-r from-purple-500 to-indigo-600 rounded-lg font-medium text-nowrap hover:opacity-70 transition-all duration-300">
